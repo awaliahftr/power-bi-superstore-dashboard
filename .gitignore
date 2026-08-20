@@ -1,0 +1,15 @@
+# Power BI files
+*.pbix.report
+*.pbix.session
+*.pbix.temp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
