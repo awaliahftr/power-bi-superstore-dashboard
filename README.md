@@ -63,7 +63,20 @@ A Power BI dashboard analyzing sales, profit, and product performance for a reta
 - **Category → Sub-Category Matrix** (Sales, Profit, Units, Margin)
 
 ---
-
+## 📂 Repository Structure
+```
+power-bi-superstore-dashboard/
+│
+├── data/
+│   └── train.csv
+├── images/
+│   └── dashboard_preview.png
+├── report/
+│   └── Superstore_Dashboard.pbix
+├── README.md
+└── .gitignore
+```
+---
 ## 📂 Data Source
 
 - **Dataset:** Kaggle Superstore Sales Dataset (2014–2017)
