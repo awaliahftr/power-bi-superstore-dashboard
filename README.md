@@ -105,5 +105,5 @@ power-bi-superstore-dashboard/
 - Publish to Power BI Service for public access
 
 📫 Connect with Me
-LinkedIn
-GitHub
+- [LinkedIn](https://linkedin.com/in/awaliahftrr)
+- [GitHub](https://github.com/awaliahftr)
